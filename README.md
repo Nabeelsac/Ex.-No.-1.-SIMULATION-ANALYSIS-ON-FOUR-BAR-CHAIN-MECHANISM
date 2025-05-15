@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.1  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 19/10/2024
 
@@ -52,8 +52,8 @@
 ## Output:
 
 
-### Name:Vikaskumar M
-### Register Number: 24900247
+### Name:Nather Nabeel S.A.C
+### Register Number: 212224100040
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
